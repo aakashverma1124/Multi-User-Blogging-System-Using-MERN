@@ -1,0 +1,24 @@
+# Multi-User-Blogging-System-Using-MERN
+This is a multi-user blogging system using MERN which gives the following functionalities:
+- User Signup / Signin
+- Forgot Password / Reset Password
+- Account Activation on User Signup
+- Social Login with Google
+- JWT based Authentication System
+- Admin / User Dashboard
+- Advance CRUD with Image Upload
+- Blogs Search
+- Categories
+- API Development with Node Express MongoDB
+- Frontend Web Development with React Hooks and NextJs
+- User Public Profile Page with List of Blogs and Contact Form
+- Blog Author Private Contact Form
+- User Private Dashboard
+- Multiple User Authorization System
+- Multi User System that can be Scaled to Build Marketplace App
+- DISQUS Commenting System
+- Related Blogs
+- Sendgrid for Sending Emails
+- Deploying to Digital Ocean Cloud Servers
+- Adding Domain
+- Cloudflare CDN and Free SSL
